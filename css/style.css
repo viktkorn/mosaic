@@ -1,0 +1,24 @@
+	@import url("reset.css");
+	@import url("main_page.css");
+	@font-face {
+    font-family: 'PfDinTextCompPro';
+    src: url('../fonts/PfDinTextCompPro/pfdintextcomppro-regular-webfont.eot');
+    src: url('../fonts/PfDinTextCompPro/pfdintextcomppro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/PfDinTextCompPro/pfdintextcomppro-regular-webfont.woff2') format('woff2'),
+         url('../fonts/PfDinTextCompPro/pfdintextcomppro-regular-webfont.woff') format('woff'),
+         url('../fonts/PfDinTextCompPro/pfdintextcomppro-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+	@font-face {
+    font-family: 'Flow';
+    src: url('../fonts/Flow/flow-webfont.eot');
+    src: url('../fonts/Flow/flow-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Flow/flow-webfont.woff2') format('woff2'),
+         url('../fonts/Flow/flow-webfont.woff') format('woff'),
+         url('../fonts/Flow/flow.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+
